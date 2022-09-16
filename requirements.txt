@@ -27,7 +27,7 @@ Jinja2==2.10
 keyring==10.6.0
 keyrings.alt==3.0
 louis==3.5.0
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 ply==3.11
 pycairo==1.16.2
